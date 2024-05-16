@@ -78,8 +78,8 @@ def fill_job_application(driver, job_application_url, cover_letter_text):
         return False
 
 def main():
-    email = "email"
-    password = "password"
+    email = "useyourownadress@seznam.cz"
+    password = "heslo123"
     print("Input cover letter")
     input_cover_letter()
     print("Cover letter text submitted successfully.")
